@@ -3,6 +3,7 @@ package single
 import (
 	"fmt"
 	"path/filepath"
+	"os"
 )
 
 // Filename returns an absolute filename, appropriate for the operating system
